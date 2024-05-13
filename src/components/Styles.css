@@ -1,0 +1,22 @@
+
+.navbar {
+    background-color: #004525;
+}
+
+.nav-link {
+    color: #f9f6f8;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: antiquewhite;
+}
+
+.footer {
+    background-color: #004525;
+}
+
+.footer-text {
+    color: #f9f6f8;
+}
